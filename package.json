@@ -1,6 +1,6 @@
 {
   "name": "npm-similarity",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,16 @@
   },
   "author": "Francisco Melo <fmelo7@gmail.com>",
   "license": "ISC",
+  "keywords": [
+    "string",
+    "text",
+    "similarity",
+    "comparison",
+    "compare",
+    "levenshtein",
+    "soundex",
+    "spelling"
+  ],
   "dependencies": {
     "chai": "^4.2.0",
     "eslint": "^5.16.0",
