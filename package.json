@@ -1,0 +1,11 @@
+{
+  "name": "npm-similarity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Melo <franciscomelo@oi.net.br>",
+  "license": "ISC"
+}
